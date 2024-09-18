@@ -17,7 +17,7 @@ export const Footer = (props) => {
                 {/* <a href="#" className="text-black no-underline hover:underline">Privacy Policy</a> */}
                 {siteConfig('BEI_AN') && (<a href="https://beian.miit.gov.cn/" className="text-black dark:text-gray-200 no-underline hover:underline ml-4">{siteConfig('BEI_AN')} </a>)}
                 <span className='dark:text-gray-200 no-underline ml-4'>
-                    Previous Blog:
+                    Previous Blog: 
                     <a href="https://cdxiaodong.github.io/" className=' hover:underline'> cdxiaodong.github.io </a>
                 </span>
             </div>
