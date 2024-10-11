@@ -1,7 +1,7 @@
 # NotionNext
 
 <p>
-  <a aria-label="GitHub commit activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
+  <a aria-label="GitHub commitd activity" href="https://github.com/tangly1024/NotionNext/commits/main" title="GitHub commit activity">
     <img src="https://img.shields.io/github/commit-activity/m/tangly1024/NotionNext?style=for-the-badge"/>
   </a>
   <a aria-label="GitHub contributors" href="https://github.com/tangly1024/NotionNext/graphs/contributors" title="GitHub contributors">
