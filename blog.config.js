@@ -70,8 +70,6 @@ const BLOG = {
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
-    '"LXGW WenKai Screen R"',
-    '"LXGW WenKai Screen"',
     '"LXGW WenKai"',
     '"PingFang SC"',
     '-apple-system',
@@ -92,8 +90,6 @@ const BLOG = {
   ],
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
-    '"LXGW WenKai Screen R"',
-    '"LXGW WenKai Screen"',
     '"LXGW WenKai"',
     'Bitter',
     '"Noto Serif SC"',
